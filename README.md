@@ -1,6 +1,6 @@
 ## 📣💰 Marketing_Campaign_Prediction
 Welcome to this project focused on optimizing direct marketing campaigns for a Portuguese banking institution. Let's embark on this data-driven journey to uncover valuable insights and build a robust model for better decision-making.
-- Kernel - GitHub - Marketing Campaign Prediction
+- Kernel - GitHub - Marketing Campaign Prediction 
 
 ## ℹ️ Introduction
 ![20943546](https://github.com/Vivikt-573/Marketing_Campaign_Prediction/assets/148704966/473a2d6c-b76a-45a4-b949-231cf4b30f6c)
@@ -14,7 +14,7 @@ Image Credits - https://www.freepik.com/author/vectorjuice - freepik - vectorj
 ### 📚🛠️ Libraries/Tools
 - Python
 - Sklearn
-- Pandas
+- Pandas 
 - Numpy
 - Seaborn
 - Matplotlib
